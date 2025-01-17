@@ -13,14 +13,19 @@
 - 😍 I LOV CODE
 - 🐍 #PYTHON
 - ☕️ #JAVA
-
+##
   
-![pereirabk GitHub stats](https://github-readme-stats.vercel.app/api?username=pereirabk&show_icons=true&theme=onedark)
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=pereirabk&show_icons=true&theme=onedark">
 
-<a href="https://github.com/pereirabk/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pereirabk&layout=compact&langs_count=8&card_width=320" />
-</a>
+  <a href="https://github.com/pereirabk/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  </a>
+</div>
 
+ 
 
 #####
 
