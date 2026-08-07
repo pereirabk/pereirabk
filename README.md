@@ -11,7 +11,6 @@
 - 📫 Pode me contatar via email: pereirabkwork@gmail.com
 - ⚡ Fun fact: Criando a melhor maneira de surpreendermos o mundo!
 - 😍 I LOV CODE
-- 🐍 #PYTHON
 - ☕️ #JAVA
 ##
   
